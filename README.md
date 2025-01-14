@@ -10,10 +10,10 @@ The dataset is can be obtained fro Kaggle and contains variables of different ve
 4. Models
 Comparing of several machine models to asses the best model : Linear regression, Random Forest Regressor, K-Nearest-Neighbors Regressor,XGboost Regressor, Decision Tree Regressor
 # DEPENDENCIES
-pandas
-numpy
-seaborn
-matplotlib
-statsmodels
-feature_engine
-scikit-learn
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- statsmodels
+- feature_engine
+- scikit-learn
